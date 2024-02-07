@@ -1,4 +1,7 @@
-<div style="padding-top:71.765%;position:relative;"><iframe src="https://gifer.com/embed/7SvE"  width="100%" height="100%" style='position:absolute;top:0;left:0;' frameBorder="0" allowFullScreen></iframe></div>
+<div align="center">
+  <img height="" src="https://i.gifer.com/7SvE.gif"  />
+</div>
+
 <hr>
 <h1 align="center">Hi👋 I'm Emrah Susam</h1>
 
