@@ -1,7 +1,3 @@
-<div align="center">
-  <img height="" src="https://i.gifer.com/7SvE.gif"  />
-</div>
-
 <h1 align="center">Hi👋 I'm Emrah Susam</h1>
 
 ###
