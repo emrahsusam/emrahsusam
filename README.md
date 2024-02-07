@@ -2,7 +2,6 @@
   <img height="" src="https://i.gifer.com/7SvE.gif"  />
 </div>
 
-<hr>
 <h1 align="center">Hi👋 I'm Emrah Susam</h1>
 
 ###
@@ -16,7 +15,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=emrahsusam&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=emrahsusam&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
-<hr>
 
 ###
 
@@ -25,7 +23,6 @@
 ###
 
 <p align="left">✨ Creating bugs since 2021<br>📚 I'm currently learning Expo and Backend<br>🎯 Goals:  Grow up to become a senior developer<br>🎲 Fun fact: I'm 29 years old 🙊</p>
-<hr>
 
 ###
 
@@ -44,7 +41,6 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a>
 </div>
-<hr>
 
 ###
 
