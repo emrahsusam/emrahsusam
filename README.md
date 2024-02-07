@@ -7,7 +7,6 @@
 ###
 
 <p align="center"> A software developer who struggles with bugs😊</p>
-<hr>
 
 ###
 
